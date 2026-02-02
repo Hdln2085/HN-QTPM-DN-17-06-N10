@@ -39,7 +39,7 @@ Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp d
 </div>
 
 ## Poster
-<img width="625" height="799" alt="image" src="https://github.com/user-attachments/assets/f9803ac4-fc2e-4757-9337-c555a27f1e40" />
+<img width="625" height="1200" alt="image" src="https://github.com/user-attachments/assets/f9803ac4-fc2e-4757-9337-c555a27f1e40" />
 
 ## 🚀 3. Hình ảnh các chức năng
 ![duan](https://github.com/user-attachments/assets/85f8a5ce-dc45-47b4-867c-7928334707a1)
