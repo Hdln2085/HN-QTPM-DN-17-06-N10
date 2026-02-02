@@ -38,6 +38,9 @@ Platform ERP được áp dụng vào học phần Thực tập doanh nghiệp d
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 </div>
 
+## Poster
+<img width="625" height="799" alt="image" src="https://github.com/user-attachments/assets/f9803ac4-fc2e-4757-9337-c555a27f1e40" />
+
 ## 🚀 3. Hình ảnh các chức năng
 ![duan](https://github.com/user-attachments/assets/85f8a5ce-dc45-47b4-867c-7928334707a1)
 
